@@ -1,0 +1,5 @@
+package intranet;
+
+public enum RoomType {
+INDEPENCE_HALL, LECTURE_ROOM, PRACTICE_ROOM, ABAI_PRESS_CENTER, D_KONAEV
+}
